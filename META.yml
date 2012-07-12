@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Coro-Twiggy
-version:            0.01
+version:            0.02
 abstract:           Coro interface for L<Twiggy>
 author:
     - Dmitry E. Oboukhov <unera@debian.org>
